@@ -7,4 +7,3 @@
 class ma_classe
 {
 }
-?>
