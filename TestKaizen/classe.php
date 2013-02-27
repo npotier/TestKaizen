@@ -4,6 +4,6 @@
 
 
 
-class ma_classe
+class MaClasse
 {
 }
